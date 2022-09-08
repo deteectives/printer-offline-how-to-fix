@@ -1,6 +1,6 @@
 # Printer offline how to fix?
 
-[![Printer offline how to fix](red2.png)](https://computersolve.com/how-to-fix-offline-printer/)
+[![Printer offline how to fix](red2.png)](https://icncomputer.com/how-to-fix-offline-printer/)
 
 If your connection is working but your printer is still offline, here are some steps to try on your computer.
 
